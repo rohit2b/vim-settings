@@ -4,8 +4,8 @@ set shiftwidth=2
 set expandtab
 
 " Make backspace behave in a sane manner.
-" set backspace=indent,eol,start
-"
+set backspace=indent,eol,start
+
 " Highlight code syntax
 syntax on
 
