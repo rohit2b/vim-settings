@@ -1,10 +1,11 @@
 This project contains settings files for the vim editor.
 
-To setup these files, add the following line to your .vimrc file in your home folder:
+Make sure you checkout this project and files to the $HOME/.vim folder.
+To link to these files, add the following line to your .vimrc file in your home folder:
 source $HOME/.vim/general.vim
-
-These settings have been tested on:
-- Mac OS X 10.7
 
 The general.vim file contains the settings that are not specific to any file type. 
 The files in the ftplugin folder contain settings specific to file types.
+
+These settings have been tested on:
+- Mac OS X 10.7
