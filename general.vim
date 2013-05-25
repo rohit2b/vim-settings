@@ -9,6 +9,9 @@ set backspace=indent,eol,start
 " Highlight code syntax
 syntax on
 
+" Remap escape key
+imap jj <Esc>
+
 " Disable arrow keys
 noremap <Up> <nop>
 noremap <Down> <nop>
