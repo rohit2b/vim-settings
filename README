@@ -8,4 +8,6 @@ The general.vim file contains the settings that are not specific to any file typ
 The files in the ftplugin folder contain settings specific to file types.
 
 These settings have been tested on:
-- Mac OS X 10.7
+- Mac OS X 10.7, 10.8, 10.9
+- CentOS/RHEL 5.x, 6.x
+- Ubuntu 12.04
